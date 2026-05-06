@@ -21,6 +21,7 @@ jobs:
         run: |
           release_version=v${GITHUB_REF:11}
           echo "tag: ${release_version}"
+          ./scripts/parse-changelog.sh "${release_version}"
           r=$(./scripts/parse-changelog.sh "${release_version}")
           echo "parsed notes: ${r}"
           r="${r//'%'/'%25'}"
