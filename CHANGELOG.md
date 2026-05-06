@@ -1,3 +1,7 @@
+# v0.3.11 - 2026-05-06
+
+- Update crates.io listing to include image
+
 # v0.3.10 - 2026-05-06
 
 ## New features
