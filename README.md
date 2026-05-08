@@ -7,7 +7,7 @@
 [crates-badge]: https://img.shields.io/crates/v/savepoint
 [crates-package]: https://crates.io/crates/savepoint
 
-[![Release](https://github.com/NamtaoProductions/savepoint/actions/workflows/release.yaml/badge.svg)](https://github.com/NamtaoProductions/savepoint/actions/workflows/release.yaml) [![Nightly build](https://github.com/NamtaoProductions/savepoint/actions/workflows/nightly.yaml/badge.svg)](https://github.com/NamtaoProductions/savepoint/actions/workflows/nightly.yaml)
+[![Release](https://github.com/NamtaoProductions/savepoint/actions/workflows/release.yaml/badge.svg)](https://github.com/NamtaoProductions/savepoint/actions/workflows/release.yaml) [![Merge checks](https://github.com/NamtaoProductions/savepoint/actions/workflows/merge.yaml/badge.svg)](https://github.com/NamtaoProductions/savepoint/actions/workflows/merge.yaml) [![Deploy docs](https://github.com/NamtaoProductions/savepoint/actions/workflows/docs.yaml/badge.svg)](https://github.com/NamtaoProductions/savepoint/actions/workflows/docs.yaml) [![Nightly build](https://github.com/NamtaoProductions/savepoint/actions/workflows/nightly.yaml/badge.svg)](https://github.com/NamtaoProductions/savepoint/actions/workflows/nightly.yaml)
 
 ## [Can't beat the boss? Load a previous save!](https://savepoint.namtao.com)
 
